@@ -10,3 +10,4 @@ Display the last 10 lines of /etc/passwd
 Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
+A script that displays the third line of the file
