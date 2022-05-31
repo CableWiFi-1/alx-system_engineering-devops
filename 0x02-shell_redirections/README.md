@@ -16,3 +16,4 @@ A script that writes into the file ls_cwd_content
 A script that duplicates the last line of the file iacta
 A script that deletes all the regular files
 A script that counts the number of directories and sub-directories in the current directory
+A script that displays the 10 newest files in the current directory
