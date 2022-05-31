@@ -12,3 +12,4 @@ Display the first 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 A script that displays the third line of the file
 A script that displays the third line of the file
+A script that writes into the file ls_cwd_content
