@@ -11,3 +11,4 @@ A script that creates a new global variable.
 A script that prints the result of POWER divided by DIVIDE
 A script that prints the result of POWER divided by DIVIDE
 A script that prints the result of POWER divided by DIVIDE
+A script that prints the result of POWER divided by DIVIDE
