@@ -12,3 +12,4 @@ A script that prints the result of POWER divided by DIVIDE
 A script that prints the result of POWER divided by DIVIDE
 A script that prints the result of POWER divided by DIVIDE
 A script that prints the result of POWER divided by DIVIDE
+A script that prints all possible combinations of two letters, except oo
