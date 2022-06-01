@@ -5,3 +5,4 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 Create a script that lists environment variables.
 Create a script that lists environment variables.
 A script that lists all local variables and environment variables, and functions.
+A script that lists all local variables and environment variables, and functions.
