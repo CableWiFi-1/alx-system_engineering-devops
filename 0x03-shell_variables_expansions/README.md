@@ -8,3 +8,5 @@ A script that lists all local variables and environment variables, and functions
 A script that lists all local variables and environment variables, and functions.
 A script that creates a new global variable.
 A script that creates a new global variable.
+A script that prints the result of POWER divided by DIVIDE
+A script that prints the result of POWER divided by DIVIDE
